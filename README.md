@@ -135,8 +135,7 @@ If you discover a vulnerability or something that could be abused:
 
 **Do NOT post it publicly.**
 
-Instead, contact the maintainers directly via Discord or email.  
-(Add contact info here.)
+Instead, contact Captain Jellybones directly via Discord.
 
 Security comes first.
 
