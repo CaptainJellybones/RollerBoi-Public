@@ -1,4 +1,4 @@
-(I made this using AI. It might not be perfect, but I'd rather keep coding for now ^^' // Captain Jellybones)
+(I made the description below using AI. It might not be perfect, but I'd rather get feedback asap and keep coding for now ^^' // Captain Jellybones)
 
 🤖 RollerBoi – Feedback & Issue Tracker
 
