@@ -8,7 +8,7 @@ This repository exists so the community can:
 - 🐛 Report bugs  
 - 💡 Suggest new features  
 - 🛠 Improve existing features  
-- ❓ Ask technical questions  
+- ❓ Ask a question or request actions
 - 📖 Suggest documentation improvements  
 
 If you’ve never used GitHub before, don’t worry — this guide walks you through everything step by step.
